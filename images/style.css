@@ -1,0 +1,30 @@
+body{
+  background-color: #393E46;
+}
+
+img{
+  width: 150px;
+  height:150px;
+}
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 80px;
+  color: #4ECCA3;
+}
+td{
+  padding:40px;
+}
+table{
+  color:#4ECCA3;
+  font-size: 30px;
+  border-spacing: 30px;
+  margin: auto;
+}
+footer{
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
